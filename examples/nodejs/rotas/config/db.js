@@ -1,6 +1,6 @@
 var mongoose = require( 'mongoose' );
 
-mongoose.connect( 'mongodb://localhost/be-mean-book' );
+mongoose.connect( 'mongodb://localhost/be-meen-book' );
 
 var db = mongoose.connection;
 
